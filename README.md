@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Explainable AI ist tot. Es lebe Explainable AI. – Stephan Hausberg · Daten WG · 15. Oktober 2026" width="100%">
+  <img src="banner.png" alt="Explainable AI ist tot. Es lebe Explainable AI. – Stephan Hausberg · Daten WG · 15. Oktober 2026" width="100%">
 </p>
 
 # Explainable AI ist tot. Es lebe Explainable AI.
